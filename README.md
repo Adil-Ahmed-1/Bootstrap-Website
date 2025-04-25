@@ -27,31 +27,6 @@ Welcome to **My Blog**, a responsive and visually stunning blog website built en
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/7facf07f-0d24-4c86-a762-1a502590f3f3" />
 
 ## 📂 Folder Structure
-Bootsrap Website/
-│
-├── database/
-│   └── DB_backup.sql               # SQL file for creating the database
-│
-├── image/                          # Images used in the website
-│   ├── 7.jpg
-│   ├── adil.png
-│   ├── coding_11zon.jpg
-│   └── Laptop_11zon.jpg
-│
-├── require/                        # Reusable PHP components
-│   ├── Category.php                # Category management
-│   ├── footer.php                  # Common footer
-│   ├── header.php                  # Common header
-│   ├── library.php                 # Utility functions or includes
-│   └── navbar.php                  # Navigation bar
-│
-├── uploads/                        # (Future use) For image/file uploads
-│
-├── connection.php                  # Database connection file
-├── create_cookie.php               # Cookie creation for login/session
-├── index.php                       # Main page (homepage/blog posts)
-├── Login_form.php                  # Login form UI
-├── login_Process.php               # Handles login logic
-├── register.php                    # User registration page
+<pre> (```)text Bootstrap Website/ ├── database/ │ └── DB_backup.sql # SQL file for creating the database ├── image/ # Images used in the website │ ├── 7.jpg │ ├── adil.png │ ├── coding_11zon.jpg │ └── Laptop_11zon.jpg ├── require/ # Reusable PHP components │ ├── Category.php # Category management │ ├── footer.php # Common footer │ ├── header.php # Common header │ ├── library.php # Utility functions or includes │ └── navbar.php # Navigation bar ├── uploads/ # (Future use) For image/file uploads ├── connection.php # Database connection file ├── create_cookie.php # Cookie creation for login/session ├── index.php # Main page (homepage/blog posts) ├── Login_form.php # Login form UI ├── login_Process.php # Handles login logic └── register.php # User registration page (```) </pre>
 
 
